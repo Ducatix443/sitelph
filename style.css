@@ -70,15 +70,7 @@ a {
 #videos h3 {
   margin-bottom: 0.5rem;
 }
-@keyframes navhover{
-  from{
-    height: 40px;
-  }
 
-  to{
-    height: 70px;
-  }
-}
 .imagepresent{
   border-radius: 40px;
 }
