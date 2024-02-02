@@ -16,11 +16,7 @@ a {
   text-decoration: none;
 }
 
-.navbar :hover{
-  height: 60px;
-  animation-name: navhover;
-  animation-duration: 1s;
-}
+
 
 .img-hover {
   transition: transform 0.3s;
